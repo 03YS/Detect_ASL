@@ -1,5 +1,4 @@
-# Create a virtual environment 
-# Activate the virtual environment
+# Create a virtual environment; Activate the virtual environment
 
 	.venv\Scripts\activate 
 
