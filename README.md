@@ -1,3 +1,4 @@
+# The below gives a detailed explanation on how to run the project 
 # Create a virtual environment; Activate the virtual environment
 
 	.venv\Scripts\activate 
